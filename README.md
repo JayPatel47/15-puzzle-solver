@@ -10,9 +10,9 @@ This project implements an AI 15-puzzle solver using advanced search methodologi
 
 ## Usage
 
-[To run the program, input a string of the current state of the board and the type of heuristic method
-To be used]
+To run the program, input a string of the current state of the board and the type of heuristic method
+To be used
 
 ## Credits
 
-This project was developed by [Jay Patel].
+This project was developed by Jay Patel.
